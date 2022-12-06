@@ -27,9 +27,9 @@ gmx_mpi grompp -f production_run_npt.mdp -c npt-equilibrium.gro -p topol.top -n 
 gmx_mpi mdrun -s npt-production.tpr -deffnm npt-production
 
 
-After performing Part-1, one needs to follow the Part-2 for subsequent analysis
+After performing Part-A, one needs to follow the Part-B for subsequent analysis
 
-Part-2:
+Part-B:
 
 The codes and corresponding input files are in the .zip file in code. First unzip the xdrf directory,
 then compile the program by
