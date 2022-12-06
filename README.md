@@ -1,6 +1,6 @@
 # Oligomer
 
-Part-A:
+**Part-A:**
 
 The MD input files, parameter files, and topology files can be found in MD.zip file. 
 
@@ -32,7 +32,7 @@ gmx_mpi mdrun -s npt-production.tpr -deffnm npt-production
 
 After performing Part-A, one needs to follow the Part-B for subsequent analysis
 
-Part-B:
+**Part-B:**
 
 The codes and corresponding input files are in the Oligomer_program.zip file in code. First unzip the xdrf directory,
 then compile the program by
